@@ -3,7 +3,7 @@
 
 # In[157]:
 
-apt-get install python-pandas -y
+
 ########Getting data from 2 CSV formatted files ##########################
 import pandas as pd
 import dateutil
