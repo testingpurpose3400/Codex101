@@ -178,9 +178,4 @@ else:
     
 
 
-# In[159]:
-
-
-my_df = pd.DataFrame(output)
-my_df.to_csv('Data.csv', index=False, header=True)
 
